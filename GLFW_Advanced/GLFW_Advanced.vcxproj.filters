@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{ad1ab158-9d98-450a-8e11-fe1affdcaf06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{240d7ddd-7ff6-47bc-9ccd-8488869ddfc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Source">
+      <UniqueIdentifier>{65ee3284-f849-4c26-b07a-e3e91ed429ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Skyboxes">
+      <UniqueIdentifier>{b0ccd230-6cf2-4e32-9aea-b6b6369e5a10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Skyboxes\Mountains">
+      <UniqueIdentifier>{f3844c59-e195-423c-aa1d-cf4086dc4510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Skyboxes\Yokohama">
+      <UniqueIdentifier>{6b3b0e50-dfbe-4255-af09-d2f3b25e2394}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>Resource Files\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\External\GLAD\glad.c">
+      <Filter>Resource Files\Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Resource Files\Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\Basic.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="res\shaders\Stencil.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="res\shaders\Screen.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="res\shaders\Skybox.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="res\shaders\Reflection.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\textures\AztecStone.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\container.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\container.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\CrashBox.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\grass.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\marble.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\neptune.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\purpleheart.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\space.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\StoneWall.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\textures\window.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="res\skyboxes\mountains\back.jpg">
+      <Filter>Resource Files\Skyboxes\Mountains</Filter>
+    </Image>
+    <Image Include="res\skyboxes\mountains\bottom.jpg">
+      <Filter>Resource Files\Skyboxes\Mountains</Filter>
+    </Image>
+    <Image Include="res\skyboxes\mountains\front.jpg">
+      <Filter>Resource Files\Skyboxes\Mountains</Filter>
+    </Image>
+    <Image Include="res\skyboxes\mountains\left.jpg">
+      <Filter>Resource Files\Skyboxes\Mountains</Filter>
+    </Image>
+    <Image Include="res\skyboxes\mountains\right.jpg">
+      <Filter>Resource Files\Skyboxes\Mountains</Filter>
+    </Image>
+    <Image Include="res\skyboxes\mountains\top.jpg">
+      <Filter>Resource Files\Skyboxes\Mountains</Filter>
+    </Image>
+    <Image Include="res\skyboxes\yokohama\back.jpg">
+      <Filter>Resource Files\Skyboxes\Yokohama</Filter>
+    </Image>
+    <Image Include="res\skyboxes\yokohama\bottom.jpg">
+      <Filter>Resource Files\Skyboxes\Yokohama</Filter>
+    </Image>
+    <Image Include="res\skyboxes\yokohama\front.jpg">
+      <Filter>Resource Files\Skyboxes\Yokohama</Filter>
+    </Image>
+    <Image Include="res\skyboxes\yokohama\left.jpg">
+      <Filter>Resource Files\Skyboxes\Yokohama</Filter>
+    </Image>
+    <Image Include="res\skyboxes\yokohama\right.jpg">
+      <Filter>Resource Files\Skyboxes\Yokohama</Filter>
+    </Image>
+    <Image Include="res\skyboxes\yokohama\top.jpg">
+      <Filter>Resource Files\Skyboxes\Yokohama</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
