@@ -14,3 +14,4 @@ Complete collection of introductory OpenGL tutorials, according to the [LearnOpe
 - [x] Geometry Shaders
 - [x] Instancing
 - [x] Anti-Aliasing
+- [x] Debugging
