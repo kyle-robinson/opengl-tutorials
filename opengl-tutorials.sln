@@ -22,6 +22,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFW_Debugging", "GLFW_Debu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFW_Text", "GLFW_Text\GLFW_Text.vcxproj", "{63948E4B-E4AC-4C3B-BEFF-B75AB23F039C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFW_Water", "GLFW_Water\GLFW_Water.vcxproj", "{292F6215-C4E0-4A14-A137-2D4E68816F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -86,6 +88,14 @@ Global
 		{63948E4B-E4AC-4C3B-BEFF-B75AB23F039C}.Release|x64.Build.0 = Release|x64
 		{63948E4B-E4AC-4C3B-BEFF-B75AB23F039C}.Release|x86.ActiveCfg = Release|Win32
 		{63948E4B-E4AC-4C3B-BEFF-B75AB23F039C}.Release|x86.Build.0 = Release|Win32
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Debug|x64.ActiveCfg = Debug|x64
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Debug|x64.Build.0 = Debug|x64
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Debug|x86.ActiveCfg = Debug|Win32
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Debug|x86.Build.0 = Debug|Win32
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Release|x64.ActiveCfg = Release|x64
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Release|x64.Build.0 = Release|x64
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Release|x86.ActiveCfg = Release|Win32
+		{292F6215-C4E0-4A14-A137-2D4E68816F34}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
