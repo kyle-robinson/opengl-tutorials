@@ -1,17 +1,15 @@
 # OpenGL Tutorials
 Complete collection of introductory OpenGL tutorials, according to the [LearnOpenGL](https://learnopengl.com/) website.
 
-| Basic Criteria        | Advanced Criteria |
-| --------------------- |:-----------------:|
-| Camera System         | Depth Testing     |
-| Directional Lighting  | Stencil Testing   |
-| Point Lighting        | Alpha Blending    |
-| Flashlight            | Framebuffers      |
-| Model Loading         | Cubemaps          |
-|                       | Geometry Shaders  |
-|                       | Instancing        |
-|                       | Anti-Aliasing     |
-|                       | Debugging         |
+|  Basic Criteria       | Advanced Criteria |
+| :-------------------: | :---------------: |
+| Camera System         | Stencil Testing   |
+| Directional Lighting  | Alpha Blending    |
+| Point Lighting        | Cubemaps          |
+| Flashlight            | Geometry Shaders  |
+| Model Loading         | Framebuffers      |
+| Debugging             | Instancing        |
+| Depth Testing         | Anti-Aliasing     |
 |                       | Water Simulation  |
 
 *Click image to view playlist on YouTube*
