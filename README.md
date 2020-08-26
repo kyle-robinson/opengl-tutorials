@@ -1,7 +1,7 @@
 # OpenGL Tutorials
 Complete collection of introductory OpenGL tutorials, according to the [LearnOpenGL](https://learnopengl.com/) website.
 
-| Introductory Criteria | Advanced Criteria |
+| Basic Criteria        | Advanced Criteria |
 | --------------------- |:-----------------:|
 | Camera System         | Depth Testing     |
 | Directional Lighting  | Stencil Testing   |
