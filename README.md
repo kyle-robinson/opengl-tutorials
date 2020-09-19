@@ -13,6 +13,6 @@ Complete collection of introductory OpenGL tutorials, according to the [LearnOpe
 |                       | Water Simulation  |
 
 *Click image to view playlist on YouTube*
-<a href="https://www.youtube.com/playlist?list=PLn_BYD1M0NFQmf54lreTN8rBPfGNCQ4nC" target="_blank">
+<a href="https://www.youtube.com/playlist?list=PLn_BYD1M0NFRg2qqDj6GxlQo2NO5_ufG5" target="_blank">
         <img src="https://i.imgur.com/HD5ueVd.jpeg" alt="Sonic Breakout Thumbnail" border="10" />
 </a>
