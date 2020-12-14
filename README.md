@@ -15,10 +15,10 @@ Complete collection of introductory OpenGL tutorials, according to the [LearnOpe
 - [x] Stencil Testing
 - [x] Framebuffers
 - [x] Instancing
-- [x] Gemoetry Shaders
+- [x] Geometry Shaders
 - [x] Water Simulation
 - [x] Alpha Blending
-- [x] Cubemaps
+- [x] Cubemapping
 
 ---
 
