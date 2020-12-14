@@ -3,7 +3,7 @@ Complete collection of introductory OpenGL tutorials, according to the [LearnOpe
 
 *Click image to view playlist on YouTube*
 <a href="https://www.youtube.com/playlist?list=PLn_BYD1M0NFRg2qqDj6GxlQo2NO5_ufG5" target="_blank">
-        <img src="https://i.imgur.com/HD5ueVd.jpeg" alt="Sonic Breakout Thumbnail" border="10" />
+        <img src="https://i.imgur.com/HD5ueVd.jpeg" alt="Water Simulation Thumbnail" border="10" />
 </a>
 
 ## List of Features
