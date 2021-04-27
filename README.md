@@ -1,4 +1,4 @@
-# OpenGL Tutorials
+# OpenGL Graphics
 Complete collection of introductory OpenGL tutorials, according to the [LearnOpenGL](https://learnopengl.com/) website.
 
 *- Click image to view playlist on YouTube -*
