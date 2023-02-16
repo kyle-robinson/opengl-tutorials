@@ -1,4 +1,11 @@
 # OpenGL Graphics
+
+[![MSBuild-Debug](https://github.com/kyle-robinson/opengl-tutorials/actions/workflows/msbuild-debug.yml/badge.svg)](https://github.com/kyle-robinson/opengl-tutorials/actions/workflows/msbuild-debug.yml)
+&nbsp;
+[![MSBuild-Release](https://github.com/kyle-robinson/opengl-tutorials/actions/workflows/msbuild-release.yml/badge.svg)](https://github.com/kyle-robinson/opengl-tutorials/actions/workflows/msbuild-release.yml)
+&nbsp;
+[![CodeQL](https://github.com/kyle-robinson/opengl-tutorials/actions/workflows/codeql.yml/badge.svg)](https://github.com/kyle-robinson/opengl-tutorials/actions/workflows/codeql.yml)
+
 Complete collection of introductory OpenGL tutorials, according to the [LearnOpenGL](https://learnopengl.com/) website.
 
 *- Click <a href="https://www.youtube.com/playlist?list=PLn_BYD1M0NFRg2qqDj6GxlQo2NO5_ufG5" target="_blank">here</a> to view playlist on YouTube -*
