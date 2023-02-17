@@ -12,8 +12,8 @@
 #include <iostream>
 #include <map>
 
-const unsigned int SCR_WIDTH = 1000;
-const unsigned int SCR_HEIGHT = 800;
+const unsigned int SCR_WIDTH = 1200;
+const unsigned int SCR_HEIGHT = 695;
 
 float alpha = 0.5f;
 float deltaTime = 0.0f;

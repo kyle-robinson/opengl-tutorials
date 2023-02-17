@@ -14,8 +14,8 @@
 #include <iostream>
 
 // Globals
-const unsigned int SCR_WIDTH = 1000;
-const unsigned int SCR_HEIGHT = 800;
+const unsigned int SCR_WIDTH = 800;
+const unsigned int SCR_HEIGHT = 600;
 
 unsigned int skyVAO = 0, skyVBO;
 float speedF = 0.8f;

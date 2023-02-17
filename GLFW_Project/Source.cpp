@@ -190,9 +190,9 @@ int main()
 		{
 			std::string number = std::to_string(i);
 			shader.SetUniform3f("pointLights[" + number + "].position", pointLightPositions[i]);
-			shader.SetUniform3f("pointLights[" + number + "].ambient", pointLightColors[i] * 0.5f);
-			shader.SetUniform3f("pointLights[" + number + "].diffuse", pointLightColors[i] * 0.5f);
-			shader.SetUniform3f("pointLights[" + number + "].specular", pointLightColors[i] * 0.5f);
+			shader.SetUniform3f("pointLights[" + number + "].ambient", pointLightColors[i] * 0.1f);
+			shader.SetUniform3f("pointLights[" + number + "].diffuse", pointLightColors[i] * 0.1f);
+			shader.SetUniform3f("pointLights[" + number + "].specular", pointLightColors[i] * 0.1f);
 			shader.SetUniform1f("pointLights[" + number + "].constant", 1.0f);
 			shader.SetUniform1f("pointLights[" + number + "].linear", 0.14f);
 			shader.SetUniform1f("pointLights[" + number + "].quadratic", 0.07f);
